@@ -1,0 +1,5 @@
+{
+  "name": "The Binding of Isaac: React Clone",
+  "description": "Браузерная roguelike игра, вдохновленная The Binding of Isaac. Генерируемые подземелья, предметы, враги и интеграция с Gemini для генерации лора.",
+  "requestFramePermissions": []
+}
